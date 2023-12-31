@@ -1,3 +1,8 @@
+https://github.com/LNikhilGit/ToDo-APP/assets/149537407/ce90e746-affc-4d82-84e8-f124aecb9575
+
+https://github.com/LNikhilGit/ToDo-APP/assets/149537407/a858c58b-913e-40f8-9fe2-eac2101bfbd9
+
+
 # SwiftUI To-Do App with Firebase Integration
 
 This repository contains the source code for a To-Do app built using SwiftUI for iOS, with Firebase integration for authentication and data storage. This app allows users to sign in with their email using Firebase Authentication and store their to-do tasks in Firebase Firestore. The tasks are then retrieved and displayed on the home screen of the app.
